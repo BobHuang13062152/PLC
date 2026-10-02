@@ -1,4 +1,4 @@
-# ITRI 機械手臂與 PLC 整合控制系統
+# 機械手臂與 PLC 整合控制系統
 
 本專案的主要操作入口為 [`int/action_main.py`](int/action_main.py)。它會啟動整合式 PLC、D435i 視覺與 CAN Bus 機械手臂控制介面，供現場執行取放流程、設備操作與狀態監看。
 
